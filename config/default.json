@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://mary:P@ssw0rd@devconnector-ivbxp.mongodb.net/test?retryWrites=true", 
+    "jwtSecretKey" : "mySecretKey",
+    "githubClientId" : "5d8548442405f38fb643",
+    "githubSecret" : "5313d4409875fa7cce26232abcec46f16e0ee008"
+}
+
